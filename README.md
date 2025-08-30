@@ -10,7 +10,8 @@ It features a clean banner, animated progress feedback, and a detailed hit repor
 
 ## Features  
 - High-speed execution: Optimized for rapid recovery code enumeration.  
-- Custom targeting: Define `--host` and `--phpsessid` for precise session-based attacks.  
+- Custom targeting: Define `--host` and `--phpsessid` for precise session-based attacks.
+- Rate-limit bypass: Rotates a new IP in the X-Forwarded-For header on every request to evade restrictions.
 - Colorful real-time feedback: Animated progress to clearly indicate active execution.  
   
 ## Usage  
