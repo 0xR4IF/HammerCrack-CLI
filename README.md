@@ -2,7 +2,7 @@
 **Command-line utility for efficient recovery code enumeration and cracking.**  
 
 ## Overview  
-HammerCrack is a fast and lightweight CLI-based tool designed for targeted recovery code cracking.  
+HammerCrack is a fast and lightweight CLI-based tool designed for targeted recovery code cracking while bypassing limits. 
 It features a clean banner, animated progress feedback, and a detailed hit report, making it both effective and visually clear during execution.  
 
 ## Demo  
