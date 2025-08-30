@@ -18,6 +18,6 @@ It features a clean banner, animated progress feedback, and a detailed hit repor
 ### 1. Installation  
 Clone the repository:  
 ```bash
-git clone https://github.com/Ahmedhr1/HammerCrack-CLI.git
+git clone https://github.com/0xR4IF/HammerCrack-CLI.git
 cd HammerCrack-CLI
 
